@@ -1,5 +1,8 @@
 # Subway
-Programme de calculs d'itinéraires pour des stations de métro dans Paris. Réalisé en C, en deuxième année à l’Efrei Paris, en 3 mois en groupe de 6.
+Programme de calculs d'itinéraires pour des stations de métro dans Paris. Réalisé en C et avec GTK, en deuxième année à l’Efrei Paris, en 3 mois en groupe de 6.
+
+# C et GTK
+Pour développé le programme, nous avons utilisé Code::Blocks avec l'implémentation de GTK pour l'interface graphique.
 
 # Initialisation du programme
 Le programme a été conçu pour représenter des stations de métro existantes à Paris. Les lignes 1, 4, 6, 7 et 9. Elles sont visibles sur la page d’accueil en cliquant sur ‘Lines’ pour connaître les noms de stations. 
